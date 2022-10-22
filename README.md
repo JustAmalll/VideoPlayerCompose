@@ -1,1 +1,1 @@
-# Video Player Compose
+# Simple Video Player With Jetpack Compose & ExoPlayer (Media3)
